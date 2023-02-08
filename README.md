@@ -2,9 +2,6 @@
 
 # How to compile?
 ``` bash
-    - rustc client.rs
-    - rustc server.rs
+   cargo run --bin client
+   cargo run --bin server 
 ```
-
-# How to run?
-- You have to run the binaries in separate terminals
